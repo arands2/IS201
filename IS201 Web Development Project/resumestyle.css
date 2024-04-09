@@ -1,0 +1,28 @@
+.header{
+    background-color: #1c2835;
+    color: #f0bf69;
+    height: 100px;
+    text-align: center;
+    padding-top: 2%;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.education{
+    margin-left: 2%;
+}
+
+.skills{
+    margin-left: 2%;
+}
+
+.experience{
+    margin-left: 2%;
+}
