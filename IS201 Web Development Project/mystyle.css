@@ -1,0 +1,101 @@
+.header{
+    background-color: teal;
+    color: black;
+    height: 100px;
+    line-height: 100px;
+    text-align:center;
+    font-style: bold;
+}
+
+.mainbody{
+    background-color: bisque;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align:center;
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    height:25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+.imgleft{
+    display:square;
+    margin-left:10;
+    padding-left: 10px;
+    margin-right:auto;
+    width:70%
+}
+
+.imgleftone{
+    display:square;
+    margin-left:auto;
+    margin-right:auto;
+    width:28.5%
+}
+
+.common{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background-color: lightslategrey;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 10px;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+.link{
+    padding: 26px;
+    text-align: left;
+    padding-left: 0;
+}
+
+.mainsection{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+.secondmainsection{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    padding-bottom: 0;
+    text-align:left;
+}
+
+.subsections{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.emphasizedtext{
+    font-style: italic;
+}
+
+.video{
+    text-align: center;
+}
